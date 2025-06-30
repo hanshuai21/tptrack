@@ -1,2 +1,2 @@
 # TPTrack
-explore efficient temporal propagation for 3D MOT
+Explore efficient temporal propagation strategy for 3D MOT
